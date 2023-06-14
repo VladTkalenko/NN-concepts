@@ -3,6 +3,8 @@ pandas
 numpy
 scipy
 seaborn
-pytorch
+torch
+torchvision
+torch-summary
 sklearn
 
